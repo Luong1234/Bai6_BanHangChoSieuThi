@@ -1,0 +1,84 @@
+C:\Users\DUNGTIEN\Documents\Visual Studio 2013\Projects\QL_MuaHang02\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\DUNGTIEN\Documents\Visual Studio 2013\Projects\QL_MuaHang02\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\DUNGTIEN\Documents\Visual Studio 2013\Projects\QL_MuaHang02\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\DUNGTIEN\Documents\Visual Studio 2013\Projects\QL_MuaHang02\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\DUNGTIEN\Documents\Visual Studio 2013\Projects\QL_MuaHang02\BusinessLogic\obj\Debug\BusinessLogic.pdb
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\BusinessLogic\bin\Debug\BusinessLogic.dll
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\BusinessLogic\bin\Debug\BusinessLogic.pdb
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\BusinessLogic\obj\Debug\BusinessLogic.dll
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\BusinessLogic\obj\Debug\BusinessLogic.pdb
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\BusinessLogic\bin\Debug\Entity.dll
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\BusinessLogic\bin\Debug\Entity.pdb
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\BusinessLogic\bin\Debug\Entity.pdb
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\BusinessLogic\bin\Debug\QLBanHangCacDoiTuong.dll
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\BusinessLogic\bin\Debug\QLBanHangKetNoiData.dll
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\BusinessLogic\bin\Debug\QuanLyBanHangEntity.dll
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\BusinessLogic\bin\Debug\QLBanHangCacDoiTuong.pdb
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\BusinessLogic\bin\Debug\QLBanHangKetNoiData.pdb
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\BusinessLogic\bin\Debug\QuanLyBanHangEntity.pdb
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\BusinessLogic\bin\Debug\BusinessLogic.dll
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\BusinessLogic\bin\Debug\BusinessLogic.pdb
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\BusinessLogic\bin\Debug\Entity.pdb
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\BusinessLogic\bin\Debug\QLBanHangCacDoiTuong.pdb
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\BusinessLogic\bin\Debug\QLBanHangKetNoiData.pdb
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\BusinessLogic\bin\Debug\QuanLyBanHangEntity.pdb
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\BusinessLogic\obj\Debug\BusinessLogic.dll
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangCacDoiTuong.dll
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangKetNoiData.dll
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\BusinessLogic\bin\Debug\QuanLyBanHangEntity.dll
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangCacDoiTuong.pdb
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangKetNoiData.pdb
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\BusinessLogic\bin\Debug\QuanLyBanHangEntity.pdb
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.pdb
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\BusinessLogic\bin\Debug\BusinessLogic.dll
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\BusinessLogic\bin\Debug\BusinessLogic.pdb
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangCacDoiTuong.pdb
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangKetNoiData.pdb
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\BusinessLogic\bin\Debug\QuanLyBanHangEntity.pdb
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.dll
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangCacDoiTuong.pdb
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangKetNoiData.pdb
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\BusinessLogic\bin\Debug\QuanLyBanHangEntity.pdb
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangCacDoiTuong.dll
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangKetNoiData.dll
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\BusinessLogic\bin\Debug\QuanLyBanHangEntity.dll
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangCacDoiTuong.pdb
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangKetNoiData.pdb
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\BusinessLogic\bin\Debug\QuanLyBanHangEntity.pdb
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangCacDoiTuong.pdb
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangKetNoiData.pdb
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\QuanLyBanHangEntity.pdb
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.pdb
