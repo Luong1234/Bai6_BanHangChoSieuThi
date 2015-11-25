@@ -82,3 +82,11 @@ E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\QuanLyBa
 E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
 E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.dll
 E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangCacDoiTuong.pdb
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangKetNoiData.pdb
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\QuanLyBanHangEntity.pdb
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.pdb
