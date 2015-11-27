@@ -260,3 +260,4 @@ E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHa
 E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
 E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\RdlCompile.cache
 E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\RdlCompile.compiled
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmNhanVien.resources
