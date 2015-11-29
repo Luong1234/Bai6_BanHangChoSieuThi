@@ -9,7 +9,7 @@ namespace BusinessLogic
 {
     public class NhanVien
     {
-        KetNoiDB da = new KetNoiDB();
+        //KetNoiDB da = new KetNoiDB();
 
         public DataTable HienThiNhanVien()
         {
@@ -40,14 +40,13 @@ namespace BusinessLogic
             con.Close();
         }
 
-        public void SuaNhanVien(string MaNV,string TenDn, string MatKhau, string TenNV, string GT, string DiaChi, string SDT)
+        public void SuaNhanVien(string TenDn, string MatKhau, string TenNV, string GT, string DiaChi, string SDT)
         {
             string sql = "SuaNhanVien";
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
             con.Open();
             SqlCommand cmd = new SqlCommand(sql, con);
             cmd.CommandType = CommandType.StoredProcedure;
-            cmd.Parameters.AddWithValue("@MaNV", MaNV);
             cmd.Parameters.AddWithValue("@TenDn", TenDn);
             cmd.Parameters.AddWithValue("@MatKhau", MatKhau);
             cmd.Parameters.AddWithValue("@TenNV", TenNV);
@@ -59,27 +58,27 @@ namespace BusinessLogic
             con.Close();
         }
 
-        public void XoaNhanVien(string MaNV)
+        public void XoaNhanVien(string TenDN)
         {
             string sql = "Xoa_NV";
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
             con.Open();
             SqlCommand cmd = new SqlCommand(sql, con);
             cmd.CommandType = CommandType.StoredProcedure;
-            cmd.Parameters.AddWithValue("@MaNV", MaNV);
+            cmd.Parameters.AddWithValue("@TenDN", TenDN);
             cmd.ExecuteNonQuery();
             cmd.Dispose();
             con.Close();
         }
-        public DataTable TKMaNV(string MaNV)
+        public DataTable TKTenDN(string TenDN)
         {
-            string sql = "SELECT * FROM tblNhanVien WHERE MaNV LIKE N'%' + @MaNV + '%'";
+            string sql = "SELECT * FROM tblNhanVien WHERE TenDN LIKE N'%' + @TenDN + '%'";
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
             con.Open();
             SqlCommand cmd = new SqlCommand(sql, con);
             SqlDataAdapter da = new SqlDataAdapter();
-            cmd.Parameters.AddWithValue("@MaNV", MaNV);
+            cmd.Parameters.AddWithValue("@TenDN", TenDN);
             da.SelectCommand = cmd;
             da.Fill(dt);
             return dt;

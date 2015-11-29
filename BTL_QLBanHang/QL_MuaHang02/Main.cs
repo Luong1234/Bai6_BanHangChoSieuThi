@@ -97,5 +97,21 @@ namespace QuanLyBanHang
         {
             label1.ForeColor = Color.Wheat;
         }
+
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            frmNhanVien frm = new frmNhanVien();
+            frm.Show();
+        }
+
+        private void nhâpHangToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void statisticalToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

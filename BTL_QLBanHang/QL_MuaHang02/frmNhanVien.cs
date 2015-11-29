@@ -20,19 +20,19 @@ namespace QuanLyBanHang
         int chon = 0;
         void KhoaDieuKhien()
         {
-            txtMaNV.Enabled = txtTenDn.Enabled = txtMatKhau.Enabled = txtTenNV.Enabled = txtDiaChi.Enabled = txtSDT.Enabled = txtGT.Enabled = false;
+            txtTenDn.Enabled = txtMatKhau.Enabled = txtTenNV.Enabled = txtDiaChi.Enabled = txtSDT.Enabled = txtGT.Enabled = false;
             btnThem.Enabled = btnSua.Enabled = btnXoa.Enabled = true;
             btnLuu.Enabled = false;
         }
         void MoDieuKhien()
         {
-            txtMaNV.Enabled = txtTenDn.Enabled = txtMatKhau.Enabled = txtTenNV.Enabled = txtDiaChi.Enabled = txtSDT.Enabled = txtGT.Enabled = true;
+            txtTenDn.Enabled = txtMatKhau.Enabled = txtTenNV.Enabled = txtDiaChi.Enabled = txtSDT.Enabled = txtGT.Enabled = true;
             btnThem.Enabled = btnSua.Enabled = btnXoa.Enabled = false;
             btnLuu.Enabled = true;
         }
         void SetNull()
         {
-            txtMaNV.Text = txtTenDn.Text = txtMatKhau.Text = txtTenNV.Text = txtSDT.Text = txtDiaChi.Text = txtGT.Text = "";
+            txtTenDn.Text = txtMatKhau.Text = txtTenNV.Text = txtSDT.Text = txtDiaChi.Text = txtGT.Text = "";
             tscbGT.Text = tstxtDiaChi.Text = tstxtMa.Text = tstxtTen.Text = "";
         }
 
@@ -47,7 +47,6 @@ namespace QuanLyBanHang
         private void btnThem_Click(object sender, EventArgs e)
         {
             MoDieuKhien();
-            txtMaNV.Enabled = false;
             SetNull();
             chon = 1;
         }
@@ -60,12 +59,12 @@ namespace QuanLyBanHang
 
         private void btnXoa_Click(object sender, EventArgs e)
         {
-            if (txtMaNV.Text == "")
+            if (txtTenDn.Text == "")
                 MessageBox.Show("Chọn nhân viên!");
             else
                 if (DialogResult.Yes == MessageBox.Show("Bạn muốn xóa nhân viên này?", "THÔNG BÁO", MessageBoxButtons.YesNo, MessageBoxIcon.Question))
                 {
-                    nv.XoaNhanVien(txtMaNV.Text);
+                    nv.XoaNhanVien(txtTenDn.Text);
                     MessageBox.Show("Xóa thành công!");
                     frmNhanVien_Load(sender, e);
                     SetNull();
@@ -94,7 +93,7 @@ namespace QuanLyBanHang
                 else
                     if (DialogResult.Yes == MessageBox.Show("Bạn có muốn Sửa nhân viên này?", "THÔNG BÁO", MessageBoxButtons.YesNo, MessageBoxIcon.Question))
                     {
-                        nv.SuaNhanVien(txtMaNV.Text,txtTenDn.Text, txtMatKhau.Text, txtTenNV.Text, txtGT.Text, txtDiaChi.Text, txtSDT.Text);
+                        nv.SuaNhanVien(txtTenDn.Text, txtMatKhau.Text, txtTenNV.Text, txtGT.Text, txtDiaChi.Text, txtSDT.Text);
                         MessageBox.Show("Sửa thành công!");
                         SetNull();
                         frmNhanVien_Load(sender, e);
@@ -105,13 +104,13 @@ namespace QuanLyBanHang
         {
             try
             {
-                txtMaNV.Text = dgvNhanVien.Rows[e.RowIndex].Cells[0].Value.ToString();
-                txtTenDn.Text = dgvNhanVien.Rows[e.RowIndex].Cells[1].Value.ToString();
-                txtMatKhau.Text = dgvNhanVien.Rows[e.RowIndex].Cells[2].Value.ToString();
-                txtTenNV.Text = dgvNhanVien.Rows[e.RowIndex].Cells[3].Value.ToString();
-                txtGT.Text = dgvNhanVien.Rows[e.RowIndex].Cells[4].Value.ToString();
-                txtDiaChi.Text = dgvNhanVien.Rows[e.RowIndex].Cells[5].Value.ToString();
-                txtSDT.Text = dgvNhanVien.Rows[e.RowIndex].Cells[6].Value.ToString();
+                
+                txtTenDn.Text = dgvNhanVien.Rows[e.RowIndex].Cells[0].Value.ToString();
+                txtMatKhau.Text = dgvNhanVien.Rows[e.RowIndex].Cells[1].Value.ToString();
+                txtTenNV.Text = dgvNhanVien.Rows[e.RowIndex].Cells[2].Value.ToString();
+                txtGT.Text = dgvNhanVien.Rows[e.RowIndex].Cells[3].Value.ToString();
+                txtDiaChi.Text = dgvNhanVien.Rows[e.RowIndex].Cells[4].Value.ToString();
+                txtSDT.Text = dgvNhanVien.Rows[e.RowIndex].Cells[5].Value.ToString();
             }
             catch { }
         }
@@ -144,6 +143,11 @@ namespace QuanLyBanHang
             frmNhanVien_Load(sender, e);
             SetNull();
             chon = 0;
+        }
+
+        private void btnThoat_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
 
        
