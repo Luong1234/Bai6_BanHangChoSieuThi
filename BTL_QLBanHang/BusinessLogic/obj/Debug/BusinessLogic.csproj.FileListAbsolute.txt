@@ -98,3 +98,8 @@ D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanH
 D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
 D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.dll
 D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.pdb

@@ -72,7 +72,11 @@ namespace QuanLyBanHang
         private void Main_FormClosed(object sender, FormClosedEventArgs e)
         {
             string str = @"Thank you for using this our application.
+<<<<<<< HEAD
                              Designed by: Tiến Dũng - Văn Lượng - Hoàng Anh - Hoa Long";
+=======
+                             Designed by: Tiến Dũng - Văn Lượng - Hoa Long - Hoàng Anh";
+>>>>>>> dcb7d6d6c4ac40a052b4accf298b0a784f01f445
 
             MessageBox.Show(str);
             t = true;

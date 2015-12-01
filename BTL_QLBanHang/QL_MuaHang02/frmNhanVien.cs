@@ -20,19 +20,19 @@ namespace QuanLyBanHang
         int chon = 0;
         void KhoaDieuKhien()
         {
-            txtTenDn.Enabled = txtMatKhau.Enabled = txtTenNV.Enabled = txtDiaChi.Enabled = txtSDT.Enabled = txtGT.Enabled = false;
+            txtTenDn.Enabled = txtMatKhau.Enabled = txtTenNV.Enabled = txtDiaChi.Enabled = txtSDT.Enabled = cbGT.Enabled = false;
             btnThem.Enabled = btnSua.Enabled = btnXoa.Enabled = true;
             btnLuu.Enabled = false;
         }
         void MoDieuKhien()
         {
-            txtTenDn.Enabled = txtMatKhau.Enabled = txtTenNV.Enabled = txtDiaChi.Enabled = txtSDT.Enabled = txtGT.Enabled = true;
+            txtTenDn.Enabled = txtMatKhau.Enabled = txtTenNV.Enabled = txtDiaChi.Enabled = txtSDT.Enabled = cbGT.Enabled = true;
             btnThem.Enabled = btnSua.Enabled = btnXoa.Enabled = false;
             btnLuu.Enabled = true;
         }
         void SetNull()
         {
-            txtTenDn.Text = txtMatKhau.Text = txtTenNV.Text = txtSDT.Text = txtDiaChi.Text = txtGT.Text = "";
+            txtTenDn.Text = txtMatKhau.Text = txtTenNV.Text = txtSDT.Text = txtDiaChi.Text = cbGT.Text = "";
             tscbGT.Text = tstxtDiaChi.Text = tstxtMa.Text = tstxtTen.Text = "";
         }
 
@@ -75,12 +75,12 @@ namespace QuanLyBanHang
         {
             if (chon == 1)
             {
-                if (txtMatKhau.Text == "" || txtTenNV.Text == "" || txtTenDn.Text == "" || txtDiaChi.Text == "" || txtSDT.Text == "" || txtGT.Text == "")
+                if (txtMatKhau.Text == "" || txtTenNV.Text == "" || txtTenDn.Text == "" || txtDiaChi.Text == "" || txtSDT.Text == "" || cbGT.Text == "")
                     MessageBox.Show("Mời nhập đầy đủ thông tin!");
                 else
                     if (DialogResult.Yes == MessageBox.Show("Bạn có muốn thêm nhân viên này?", "THÔNG BÁO", MessageBoxButtons.YesNo, MessageBoxIcon.Question))
                     {
-                        nv.ThemNhanVien(txtTenDn.Text,txtMatKhau.Text,txtTenNV.Text,txtGT.Text,txtDiaChi.Text,txtSDT.Text);
+                        nv.ThemNhanVien(txtTenDn.Text,txtMatKhau.Text,txtTenNV.Text,cbGT.Text,txtDiaChi.Text,txtSDT.Text);
                         MessageBox.Show("Thêm thành công!");
                         SetNull();
                         frmNhanVien_Load(sender, e);
@@ -88,12 +88,12 @@ namespace QuanLyBanHang
             }
             else if (chon == 2)
             {
-                if (txtMatKhau.Text == "" || txtTenNV.Text == "" || txtTenDn.Text == "" || txtDiaChi.Text == "" || txtSDT.Text == "" || txtGT.Text == "")
+                if (txtMatKhau.Text == "" || txtTenNV.Text == "" || txtTenDn.Text == "" || txtDiaChi.Text == "" || txtSDT.Text == "" || cbGT.Text == "")
                     MessageBox.Show("Mời nhập đầy đủ thông tin!");
                 else
                     if (DialogResult.Yes == MessageBox.Show("Bạn có muốn Sửa nhân viên này?", "THÔNG BÁO", MessageBoxButtons.YesNo, MessageBoxIcon.Question))
                     {
-                        nv.SuaNhanVien(txtTenDn.Text, txtMatKhau.Text, txtTenNV.Text, txtGT.Text, txtDiaChi.Text, txtSDT.Text);
+                        nv.SuaNhanVien(txtTenDn.Text, txtMatKhau.Text, txtTenNV.Text, cbGT.Text, txtDiaChi.Text, txtSDT.Text);
                         MessageBox.Show("Sửa thành công!");
                         SetNull();
                         frmNhanVien_Load(sender, e);
@@ -108,7 +108,7 @@ namespace QuanLyBanHang
                 txtTenDn.Text = dgvNhanVien.Rows[e.RowIndex].Cells[0].Value.ToString();
                 txtMatKhau.Text = dgvNhanVien.Rows[e.RowIndex].Cells[1].Value.ToString();
                 txtTenNV.Text = dgvNhanVien.Rows[e.RowIndex].Cells[2].Value.ToString();
-                txtGT.Text = dgvNhanVien.Rows[e.RowIndex].Cells[3].Value.ToString();
+                cbGT.Text = dgvNhanVien.Rows[e.RowIndex].Cells[3].Value.ToString();
                 txtDiaChi.Text = dgvNhanVien.Rows[e.RowIndex].Cells[4].Value.ToString();
                 txtSDT.Text = dgvNhanVien.Rows[e.RowIndex].Cells[5].Value.ToString();
             }
@@ -117,12 +117,12 @@ namespace QuanLyBanHang
 
         private void tstxtMa_TextChanged(object sender, EventArgs e)
         {
-            dgvNhanVien.DataSource = nv.TKMaNhanVien(tstxtMa.Text);
+            dgvNhanVien.DataSource = nv.TKTenDN(tstxtMa.Text);
             //KhoiTao();
         }
         private void tstxtTen_TextChanged(object sender, EventArgs e)
         {
-            dgvNhanVien.DataSource = nv.TKTenNhanVien(tstxtTen.Text);
+            dgvNhanVien.DataSource = nv.TKTenNV(tstxtTen.Text);
             //KhoiTao();
         }
 

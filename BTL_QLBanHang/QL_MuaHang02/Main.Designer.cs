@@ -104,6 +104,10 @@
             // 
             // toolStripMenuItem1
             // 
+<<<<<<< HEAD
+=======
+            this.toolStripMenuItem1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripMenuItem1.Image")));
+>>>>>>> dcb7d6d6c4ac40a052b4accf298b0a784f01f445
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
             this.toolStripMenuItem1.Size = new System.Drawing.Size(152, 24);
             this.toolStripMenuItem1.Text = "Nhân viên";
@@ -309,7 +313,7 @@
             this.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.Name = "Main";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "DL Computer";
+            this.Text = "DA2L Computer";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Main_FormClosed);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
