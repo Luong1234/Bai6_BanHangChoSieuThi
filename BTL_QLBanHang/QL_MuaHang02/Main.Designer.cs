@@ -104,10 +104,6 @@
             // 
             // toolStripMenuItem1
             // 
-<<<<<<< HEAD
-=======
-            this.toolStripMenuItem1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripMenuItem1.Image")));
->>>>>>> dcb7d6d6c4ac40a052b4accf298b0a784f01f445
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
             this.toolStripMenuItem1.Size = new System.Drawing.Size(152, 24);
             this.toolStripMenuItem1.Text = "Nhân viên";
