@@ -72,7 +72,8 @@ namespace QuanLyBanHang
         private void Main_FormClosed(object sender, FormClosedEventArgs e)
         {
             string str = @"Thank you for using this our application.
-                             Designed by: Tiến Dũng - Văn Lượng";
+                             Designed by: Tiến Dũng - Văn Lượng - Hoàng Anh - Hoa Long";
+
 
             MessageBox.Show(str);
             t = true;
@@ -96,6 +97,22 @@ namespace QuanLyBanHang
         private void timer3_Tick(object sender, EventArgs e)
         {
             label1.ForeColor = Color.Wheat;
+        }
+
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            frmNhanVien frm = new frmNhanVien();
+            frm.Show();
+        }
+
+        private void nhâpHangToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void statisticalToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -13,6 +13,7 @@ namespace BusinessLogic
         public bool Login(string _Name, string _Pass)
         {
             string sql = @"select * from NHANVIEN WHERE TenDN = '" + _Name + "' AND MatKhau = '" + _Pass + "'";
+
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
             SqlDataAdapter ad = new SqlDataAdapter(sql, con);
             DataTable dt = new DataTable();

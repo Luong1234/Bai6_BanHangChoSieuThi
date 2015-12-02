@@ -63,6 +63,22 @@ namespace BusinessLogic
             cmd.Dispose();
             con.Close();
         }
+        public void UpdateCTHD(string _MaHDB, string _MaSP, string _SoLg, string _DonGia)
+        {
+            string sql = "UpdateCTHDB";
+            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
+            con.Open();
+            SqlCommand cmd = new SqlCommand(sql, con);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("@MaHDB", _MaHDB);
+            cmd.Parameters.AddWithValue("@MaSP", _MaSP);
+            cmd.Parameters.AddWithValue("@SoLuong", int.Parse(_SoLg));
+            cmd.Parameters.AddWithValue("@dongia", float.Parse(_DonGia));
+            cmd.Parameters.AddWithValue("@ThanhTien", float.Parse(_DonGia) * int.Parse(_SoLg));
+            cmd.ExecuteNonQuery();
+            cmd.Dispose();
+            con.Close();
+        }
         public void DeleteCTHDB(string _MaHDB, string _MaSP)
         {
             string str = "DeleteCTHDB";

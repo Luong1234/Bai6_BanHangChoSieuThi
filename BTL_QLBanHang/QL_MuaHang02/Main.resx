@@ -121,6 +121,8 @@
     <value>104, 17</value>
   </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+
+  
   <data name="danhSáchMặtHàngToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         /9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAkGBxMSEhUUEhIWFhUXGBcVFxgUFRUUFBcUFRcWFhcYGBcY
@@ -247,6 +249,22 @@
         Gn1M3qHcvnqZvUO5b0IDCOMDZZoQgBCEIAQhCAEIQgBfCF9QgE6s8F+FyOLjSgEkk5JJGC51PitdYeZa
         P/SbCv6u756b8SeEIBNpvBdhTHBwpcxBuM8kr23HW0usfOnFrQNBoF9QgBCEIAQhCAEIQgBCEIAQhCAE
         IQgBCEIAQhCAEIQgBCEIAQhCAEIQgBCEIAQhCAEIQgBCEIAQhCAEIQgBCEIAQhCAEIQgBCEID//Z
+</value>
+  </data>
+  <data name="toolStripMenuItem1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJkSURBVDhPYxgFhIGliniSnZrETSB+aKMmEQMVxg1yJzKw
+        Q5kMuXEBytoygn8s1aX/J/nY/vczV/9XmRnnCJWGABUPBvb6Ddwu86/ydqx5zHtm80u+P2sf810H8idn
+        1Eu13dw64/+3B2f+f395+/+D/Uv+uxippkK1QoByGFNc1CyuPy17Zf/W7xL4V72T83/tTp5/LXul/5Yv
+        0Pr76ez6/z8fnfn/48mF/58vbvk/pT7dC6oVAoQ8mOINypn/B03l+N+60/jf/GNp/2o3mvzzn8T537Sa
+        9f+5nX3//9zZ///P3YP/f1zc+BCqDQG4bJniZdOY/ts1s/5PWMj+v3mn7l/fiWz/TapY/kulMP2PKbR8
+        8eXsmv/fL2z4d2fHrDaoNgRgt2VN4A5j+K9dxPzfZwLb/6QFEn9hmlkDGP6n1Pi/Pbag+ff1bTP+PD6z
+        ex5UGwIIabEmMvkw/JNIZPxvWc/y37Wd8x9Is0AQ138Nb83/i5Yu+f/o8om/949u/3vwwOF/nu4Byz08
+        fEyh2hkYxMUZuPkkmXJ47ZjvquUw/zMt5P1n4m3038bW8b+VpeP/CROm/D+7ffv/g5Mn/1+/fhNYzNrK
+        6b+Tk/dpV1cvO6gxDAz8/AwCQnJMeXqOqs8tzO3/m5vZArHd//b27v9X1679f76v7//KlWv+m5vb/TcD
+        y9n+tzS32w3VjgDKyqrTjI0t/5uYWP0H0dnZ+f/3VFf/3xsX/7+rqw8iDpXT1NQ7CtWGAth4eQW8JaRk
+        +mXlFbcYG5sfy7C2OZulo3POxc39hJy80k4pKbkZAgLC0QwMDHwAXgEMYPS3FlYAAAAASUVORK5CYII=
 </value>
   </data>
   <data name="danhKháchKháchHàngToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
@@ -558,6 +576,7 @@
         IvsP5BTSDiL7D+QU0g4i+w/kFNIOIvsP5BTSDiL7D+QU0g4i+w/kFNIOJk2YYMvqKaGq0WjWHiRpmHGu
         HNgwiXXTgRduuSA1lceOpOhceMv000TRr2y7cFYqquRXp2Q6qoy2ICAgICAgICAgICAgICAgICAgICAg
         ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIP/Z
+
 </value>
   </data>
   <data name="bánHàngToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
@@ -1107,6 +1126,7 @@
         AAAAw1fiVDa+5CnJyoVFSTd3CUc0V/Lrp4FwAFS2ZuNRg1KtN1bfZSyQ89W2WyEUkkkkkrJLRJdEZAAA
         AAAAAAAAAAAAAAAAAAAAAAAAAAABi5pxOHhUjlqQjOPSSUl7mQBEy3WwTd/g27oznFeiZKYTDQpRUKcY
         xiuUfzAA3ZjGYABmGcABnGcwAGcznMADOcZzAAzmGYAIMwzAAZzGbgBJcXAAyAAAAAAAD//Z
+
 </value>
   </data>
   <data name="toolStripMenuItem4.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
@@ -1775,6 +1795,7 @@
         BAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQf/9k=
 </value>
   </data>
+
   <data name="nhâpHangToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         /9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAkGBxAQDxQUEBQVFRERFBQQEBYRFRAQFBAQFRQWFhUVExQY
@@ -1953,6 +1974,7 @@
         zI3PwxU8tVJL5Vghjp0/qeTSYMGLbYbcSEw2xHaGENtjAAqo25PLLOFFYRKoehQBQBQBQBQBQBQH/9k=
 </value>
   </data>
+
   <data name="statisticalToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         /9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAkGBxQSEhQUExQUFhQUFRUUGBUYFxUYFhQWFhQWFxUUFBUc
@@ -2079,7 +2101,7 @@
 </value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>                                                          Designed by Tien Dung ft Van Luong  ft Hoan Anh ft Hoa Long                                                                                                                  </value>
+    <value>                                                          Designed by Tien Dung ft Van Luong  ft Hoang Anh ft Hoa Long                                                                                                                  </value>
   </data>
   <data name="pictureBox1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
