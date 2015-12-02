@@ -63,22 +63,5 @@ namespace BusinessLogic
             cmd.Dispose();
             con.Close();
         }
-        public DataTable SearchLoaiKH(string _LoaiKH)
-        {
-            DataTable dt = new DataTable();
-            string sql = "SearchLoaiKH";
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
-            cmd.CommandType = CommandType.StoredProcedure;
-            cmd.Parameters.AddWithValue("@str", _LoaiKH);
-
-            SqlDataAdapter da = new SqlDataAdapter(cmd);
-            da.Fill(dt);
-
-            con.Close();
-            cmd.Dispose();
-            return dt;
-        }
     }
 }

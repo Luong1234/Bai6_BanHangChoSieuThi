@@ -88,12 +88,6 @@
     <Compile Include="frmInHDB.Designer.cs">
       <DependentUpon>frmInHDB.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmNhanVien.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmNhanVien.Designer.cs">
-      <DependentUpon>frmNhanVien.cs</DependentUpon>
-    </Compile>
     <Compile Include="frmThongKe.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -159,15 +153,11 @@
     <EmbeddedResource Include="frmKhachHang.resx">
       <DependentUpon>frmKhachHang.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmNhanVien.resx">
-      <DependentUpon>frmNhanVien.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="frmThongKe.resx">
       <DependentUpon>frmThongKe.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Main.resx">
       <DependentUpon>Main.cs</DependentUpon>
-      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="frmLoaiHang.resx">
       <DependentUpon>frmLoaiHang.cs</DependentUpon>

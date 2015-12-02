@@ -67,34 +67,5 @@ namespace BusinessLogic
             cmd.Dispose();
             con.Close();
         }
-        public DataTable TKTenNCC(string TenNCC)
-        {
-            string sql = "SELECT * FROM NHACUNGCAP WHERE TenNCC LIKE N'%' + @TenNCC + '%'";
-            DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
-            SqlDataAdapter da = new SqlDataAdapter();
-            cmd.Parameters.AddWithValue("@TenNCC", TenNCC);
-            da.SelectCommand = cmd;
-            da.Fill(dt);
-            return dt;
-
-        }
-        public DataTable TKDiaChiNCC(string DiaChi)
-        {
-            string sql = "SELECT * FROM NHACUNGCAP WHERE DiaChi LIKE N'%' + @DiaChi + '%'";
-            DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
-            SqlDataAdapter da = new SqlDataAdapter();
-            cmd.Parameters.AddWithValue("@DiaChi", DiaChi);
-            da.SelectCommand = cmd;
-            da.Fill(dt);
-            return dt;
-
-        }
-
     }
 }

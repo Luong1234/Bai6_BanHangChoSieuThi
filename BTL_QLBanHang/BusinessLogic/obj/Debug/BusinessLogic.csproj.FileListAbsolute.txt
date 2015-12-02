@@ -82,27 +82,3 @@ E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\QuanLyBa
 E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
 E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.dll
 E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.pdb
-E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\BusinessLogic.dll
-E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\BusinessLogic.pdb
-E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangCacDoiTuong.pdb
-E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangKetNoiData.pdb
-E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\QuanLyBanHangEntity.pdb
-E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
-E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.dll
-E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.pdb
-D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\BusinessLogic.dll
-D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\BusinessLogic.pdb
-D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangCacDoiTuong.pdb
-D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangKetNoiData.pdb
-D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\QuanLyBanHangEntity.pdb
-D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
-D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.dll
-D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.pdb
-E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\BusinessLogic.dll
-E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\BusinessLogic.pdb
-E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
-E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.dll
-E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\obj\Debug\BusinessLogic.pdb
-E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangCacDoiTuong.pdb
-E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\QLBanHangKetNoiData.pdb
-E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\BusinessLogic\bin\Debug\QuanLyBanHangEntity.pdb
