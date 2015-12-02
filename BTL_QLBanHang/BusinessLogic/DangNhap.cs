@@ -12,7 +12,7 @@ namespace BusinessLogic
     {
         public bool Login(string _Name, string _Pass)
         {
-            string sql = @"select * from DANGNHAP WHERE Username = '" + _Name + "' AND Pass = '" + _Pass + "'";
+            string sql = @"select * from DANGNHAP WHERE TenDN = '" + _Name + "' AND Pass = '" + _Pass + "'";
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
             SqlDataAdapter ad = new SqlDataAdapter(sql, con);
             DataTable dt = new DataTable();
