@@ -124,7 +124,8 @@
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.treeView1);
             this.Name = "frmHuongDan";
-            this.Text = "frmHuongDan";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Hướng Dẫn";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
