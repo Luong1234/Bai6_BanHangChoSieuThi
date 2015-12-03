@@ -112,7 +112,8 @@ namespace QuanLyBanHang
 
         private void statisticalToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            frmHuongDan frmhd = new frmHuongDan();
+            frmhd.Show();
         }
     }
 }

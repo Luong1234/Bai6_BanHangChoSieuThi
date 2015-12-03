@@ -314,3 +314,4 @@ E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_
 E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangKetNoiData.pdb
 E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QuanLyBanHangEntity.pdb
 E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHuongDan.resources
