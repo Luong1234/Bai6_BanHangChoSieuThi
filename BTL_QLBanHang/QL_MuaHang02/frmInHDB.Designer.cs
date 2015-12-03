@@ -106,7 +106,7 @@
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmInHDB";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "frmInHDB";
+            this.Text = "IN HÓA ĐƠN BÁN";
             this.Load += new System.EventHandler(this.frmInHDB_Load);
             ((System.ComponentModel.ISupportInitialize)(this.InHDNBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.DataSet2)).EndInit();
